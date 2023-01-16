@@ -17,11 +17,11 @@
 0. (최초1회) **자신의 영문이름으로 된 브런치** 생성
 
 1. 자신의 로컬 저장소에 원격 레포지토리를 pull
-2. 해당하는 챕터의 폴더 안에 **자신의 영문이름으로 된 폴더** 생성
-    ex) `chapter01/soheekim`
+2. 해당하는 챕터의 폴더 안에 **스터디 날짜폴더** 밑으로 **자신의 영문이름으로 된 폴더** 생성
+    ex) `chapter01/0116/soheekim`
 3. 폴더 안에 자신의 정답 코드 작성.
    코드 파일의 제목은 `(baek or swea)문제 번호`
-   ex) `chapter01/soheekim/swea1926.java`
+   ex) `chapter01/0116/soheekim/swea1926.java`
 4. 완성 후 master branch로 push
 
 **반드시 Java로 작성하며, 완성하지 못하더라도 슈도코드를 최대한 작성**
@@ -32,14 +32,12 @@
 
 ### chapter01
 
-- 기초 시간복잡도와 Big-O표기법
-
 - 온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
 ### chapter02
 
-- 자료구조 리스트, 큐, 스택, 연결리스트, 트리, (해시, 덱, 힙?), 배열순회
+- 자료구조 리스트, 큐, 스택, 연결리스트, 트리, 배열순회
 
 ### chapter03
 
@@ -52,8 +50,12 @@
 SWEA 참고하여 정렬만 해놓음.
 
 - 재귀, 다이나믹 프로그래밍(DP)
+
 - 그래프 문제, 기초 DFS와 BFS
+
 - DFS와 BFS 응용, 최단 경로 구하기
+
+- 기초 시간복잡도와 Big-O표기법
 
 - 그리디 알고리즘
 
@@ -67,11 +69,11 @@ SWEA 참고하여 정렬만 해놓음.
 
 - (NP-Complete, 근사 알고리즘?)
 
-- 정수론과 최적화, 확률이론
-
 - 완전탐색과 시뮬레이션, 브루트 포스
 
 - 구현
+
+- (해시, 덱, 힙?) (희망하는 사람이 있다면)
 
   
 
@@ -103,3 +105,11 @@ SWEA 참고하여 정렬만 해놓음.
 
 - SWEA Programming Intermediate, Advanced, Professional 코스 강좌들
   https://swexpertacademy.com/main/learn/course/courseList.do#none
+
+## 스터디 진행 상황
+
+#### 1/16  7:00pm - 9:00pm
+
+1. SWEA 문제 1926.간단한 369 게임
+2. SWEA 문제 1954. 달팽이 숫자
+3. SWEA 문제 1966. 숫자를 정렬하자
