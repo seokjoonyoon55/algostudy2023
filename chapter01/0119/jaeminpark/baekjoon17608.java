@@ -17,7 +17,7 @@ public class baekjoon17608 {
 		
 		max_height = blockArr[blockArr.length-1];	// 블록이 보이려면 맨 앞보다는 무조건 커야 되므로 max_height을 배열의 맨 오른쪽 값으로 초기화
 		for (int i = blockArr.length - 1; i > 0; i--) {	//블록의 오른쪽부터 가면서 따지는 for문
-			if (blockArr[i - 1] > blockArr[i] && blockArr[i-1] > max_height) {
+			if (blockArr[i-1] > max_height) {
 				cnt++;
 				max_height = blockArr[i-1];	
 			}//if문 끝
