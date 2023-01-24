@@ -6,13 +6,13 @@ public class BAEK4948 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		// ÃÖ´ñ°ª¸¸Å­ÀÇ ¹è¿­ ¼±¾ğ
+		// ìµœëŒ“ê°’ë§Œí¼ì˜ ë°°ì—´ ì„ ì–¸
 		int[] prime = new int[246913];
 		
-		// ¹è¿­¿¡ °¢ ¼ıÀÚ·Î ÃÊ±âÈ­
+		// ë°°ì—´ì— ê° ìˆ«ìë¡œ ì´ˆê¸°í™”
 		for (int i = 2; i <= 246912; i++) prime[i] = i;
 		
-		// °¢ ¼ıÀÚÀÇ ¹è¼ö 0À¸·Î ÃÊ±âÈ­
+		// ê° ìˆ«ìì˜ ë°°ìˆ˜ 0ìœ¼ë¡œ ì´ˆê¸°í™”
 		for (int i = 2; i <= 246912; i++) {
 			if (prime[i] == 0) continue;
 			
