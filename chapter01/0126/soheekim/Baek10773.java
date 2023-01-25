@@ -24,9 +24,10 @@ public class Baek10773 {
 			}
 		}
 		
+		//합 구하기
 		for(int i=0;i<N;i++) {
 			sum+=paper[i];
-		}//합 구하기
+		}
 		
 		System.out.println(sum);
 		sc.close();
