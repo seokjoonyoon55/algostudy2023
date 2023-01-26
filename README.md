@@ -1,6 +1,14 @@
 # algostudy2023
 
-아래 내용은 수정될 수 있습니다.
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Jaemin-Park9708"><img src="https://avatars.githubusercontent.com/u/113920259?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=catbirdseat" widt="100px"><br /><sub><b>박재민 Mr.JM</b></sub></a><br /><sub><b>조교수, 첫째아들</b><br>ENTJ</br></sub></td>
+    <td align="center"><a href="https://github.com/Sohee-Kim-ln"><img src="https://avatars.githubusercontent.com/u/122426246?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chaekbaam6491" widt="100px"><br /><sub><b>김소희 Sohee-Kim-ln</b></sub></a><br /><sub><b>스터디장</b><br>ESFJ</br></sub></td>
+    <td align="center"><a href="https://github.com/Boyeon-Kimm"><img src="https://avatars.githubusercontent.com/u/122425985?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=boyoun1113" widt="100px"><br /><sub><b>김보연 Boyeon-Kimm</b></sub></a><br /><sub><b>누님</b><br>ENTJ</br></sub></td>      
+    <td align="center"><a href="https://github.com/seokjoonyoon55"><img src="https://avatars.githubusercontent.com/u/88029846?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px"><br /><sub><b>윤석준 seokjoonyoon55</b></sub></a><br /><sub><b>???</b><br>INFP</br></sub></td>      
+    <td align="center"><a href="https://github.com/YOUNPRIZE"><img src="https://avatars.githubusercontent.com/u/76830587?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>조윤상 YOUNPRIZE</b></sub></a><br /><sub><b>치어리더</b><br>ISFJ</br></sub></td>     
+  </tr>
+</table><br/>
 
 ## 휘뚜루마뚜루 알고리즘 스터디 개요
 
@@ -36,9 +44,9 @@
 - (온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법)
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
-### chapter02
+### chapter02. 자료구조
 
-- 자료구조 리스트, 큐, 스택, 연결리스트, 트리, 배열순회
+- 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
 
 ### chapter03
 
@@ -109,6 +117,8 @@ SWEA 참고하여 정렬만 해놓음.
 
 ## 스터디 진행 상황
 
+### chapter01. 알고리즘 문제 익숙해지기
+
 #### 1/16  7:00pm - 9:00pm
 
 1. SWEA 문제 1926.간단한 369 게임 #링크생략
@@ -133,3 +143,18 @@ SWEA 참고하여 정렬만 해놓음.
 5. 백준 문제 4948. 베르트랑 공준 https://www.acmicpc.net/problem/4948
 6. 백준 문제 10773. 제로 https://www.acmicpc.net/problem/10773
 7. 실습 1-4. 갑자문제
+
+
+
+### chapter02. 자료구조
+
+#### 1/30  7:00pm - 9:00pm(예정)
+
+##### 스택
+
+1. 백준 문제 10828. 스택 https://www.acmicpc.net/problem/10828
+2. 백준 문제 9012. 괄호 https://www.acmicpc.net/problem/9012
+3. 백준 문제 4949. 균형잡힌 세상 https://www.acmicpc.net/problem/4949
+4. 백준 문제 1874. 스택 수열 https://www.acmicpc.net/problem/1874
+
++어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
