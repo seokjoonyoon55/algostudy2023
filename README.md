@@ -111,6 +111,25 @@ SWEA 참고하여 정렬만 해놓음.
 
 #### 1/16  7:00pm - 9:00pm
 
-1. SWEA 문제 1926.간단한 369 게임
-2. SWEA 문제 1954. 달팽이 숫자
-3. SWEA 문제 1966. 숫자를 정렬하자 
+1. SWEA 문제 1926.간단한 369 게임 #링크생략
+2. SWEA 문제 1954. 달팽이 숫자 #링크생략
+3. SWEA 문제 1966. 숫자를 정렬하자 #링크생략
+
+#### 1/19  7:00pm - 9:00pm
+
+1. 백준 문제 1769. 3의 배수 https://www.acmicpc.net/problem/1769
+2. 백준 문제 12605. 단어순서 뒤집기 https://www.acmicpc.net/problem/12605
+3. 백준 문제 17608. 막대기 https://www.acmicpc.net/problem/17608
+   - 보연님 아프셔서 불참
+
+#### 1/23 설연휴 스터디 생략
+
+#### 1/26  7:00pm - 9:00pm(예정)
+
+1. 백준 문제 1065. 한수 https://www.acmicpc.net/problem/1065
+2. 백준 문제 2563. 색종이 https://www.acmicpc.net/problem/2563
+3. 백준 문제 2566. 최댓값 https://www.acmicpc.net/problem/2566
+4. 백준 문제 4344. 평균은 넘겠지 https://www.acmicpc.net/problem/4344
+5. 백준 문제 4948. 베르트랑 공준 https://www.acmicpc.net/problem/4948
+6. 백준 문제 10773. 제로 https://www.acmicpc.net/problem/10773
+7. 실습 1-4. 갑자문제

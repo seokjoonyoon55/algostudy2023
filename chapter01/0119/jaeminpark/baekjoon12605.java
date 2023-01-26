@@ -13,7 +13,7 @@ public class baekjoon12605 {	//단어 순서 뒤집기 문제(완)
 		String sentence; // list 내 각각의 case 문장 받아올 변수
 		sc.nextLine(); // 버퍼 비워줘야 됨 밑에 내리면 버퍼 비우는거 생각 안하고 짰다가 머리 뜨거워진 코드 있음(주석처리)
 		for (int i = 0; i < N; i++) {
-			list.add(sc.nextLine()); // test_case만큼 다음 열을 list에 추가
+			list.add(sc.nextLine()); // test_case만큼 다음 열을 list에 추가 - <윤상님 피드백: 아래 for문에 넣어도 됨>
 		}
 		// System.out.println("list의 사이즈: " + list.size());
 		for (int i = 0; i < list.size(); i++) {
