@@ -44,9 +44,9 @@
 - (온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법)
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
-### chapter02
+### chapter02. 자료구조
 
-- 자료구조 리스트, 큐, 스택, 연결리스트, 트리, 배열순회
+- 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
 
 ### chapter03
 
@@ -117,6 +117,8 @@ SWEA 참고하여 정렬만 해놓음.
 
 ## 스터디 진행 상황
 
+### chapter01. 알고리즘 문제 익숙해지기
+
 #### 1/16  7:00pm - 9:00pm
 
 1. SWEA 문제 1926.간단한 369 게임 #링크생략
@@ -141,3 +143,18 @@ SWEA 참고하여 정렬만 해놓음.
 5. 백준 문제 4948. 베르트랑 공준 https://www.acmicpc.net/problem/4948
 6. 백준 문제 10773. 제로 https://www.acmicpc.net/problem/10773
 7. 실습 1-4. 갑자문제
+
+
+
+### chapter02. 자료구조
+
+#### 1/30  7:00pm - 9:00pm(예정)
+
+##### 스택
+
+1. 백준 문제 10828. 스택 https://www.acmicpc.net/problem/10828
+2. 백준 문제 9012. 괄호 https://www.acmicpc.net/problem/9012
+3. 백준 문제 4949. 균형잡힌 세상 https://www.acmicpc.net/problem/4949
+4. 백준 문제 1874. 스택 수열 https://www.acmicpc.net/problem/1874
+
++어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
