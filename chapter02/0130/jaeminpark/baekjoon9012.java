@@ -27,7 +27,7 @@ public class baekjoon9012 {
 					cnt++;
 				} else if (str[j].equals(")")) {
 					cnt--;
-					if(cnt<0) {
+					if (cnt < 0) {
 						cnt = 100;
 						break;
 					}
@@ -38,10 +38,10 @@ public class baekjoon9012 {
 				answer = "NO";
 			} else if (cnt > 0 && cnt < 100) {
 				answer = "NO";
-			} else if(cnt == 0){
+			} else if (cnt == 0) {
 				answer = "YES";
 			}
-			
+
 			sb.append(answer).append("\n");
 		}
 
