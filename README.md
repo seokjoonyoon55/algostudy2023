@@ -1,6 +1,14 @@
 # algostudy2023
 
-아래 내용은 수정될 수 있습니다.
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Jaemin-Park9708"><img src="https://avatars.githubusercontent.com/u/113920259?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=catbirdseat" widt="100px"><br /><sub><b>박재민 Mr.JM</b></sub></a><br /><sub><b>조교수, 첫째아들</b><br>ENTJ</br></sub></td>
+    <td align="center"><a href="https://github.com/Sohee-Kim-ln"><img src="https://avatars.githubusercontent.com/u/122426246?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chaekbaam6491" widt="100px"><br /><sub><b>김소희 Sohee-Kim-ln</b></sub></a><br /><sub><b>스터디장</b><br>ESFJ</br></sub></td>
+    <td align="center"><a href="https://github.com/Boyeon-Kimm"><img src="https://avatars.githubusercontent.com/u/122425985?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=boyoun1113" widt="100px"><br /><sub><b>김보연 Boyeon-Kimm</b></sub></a><br /><sub><b>누님</b><br>ENTJ</br></sub></td>      
+    <td align="center"><a href="https://github.com/seokjoonyoon55"><img src="https://avatars.githubusercontent.com/u/88029846?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px"><br /><sub><b>유석준 seokjoonyoon55</b></sub></a><br /><sub><b>???</b><br>INFP</br></sub></td>      
+    <td align="center"><a href="https://github.com/YOUNPRIZE"><img src="https://avatars.githubusercontent.com/u/76830587?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>조윤상 YOUNPRIZE</b></sub></a><br /><sub><b>치어리더</b><br>ISFJ</br></sub></td>     
+  </tr>
+</table><br/>
 
 ## 휘뚜루마뚜루 알고리즘 스터디 개요
 
