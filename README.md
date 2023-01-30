@@ -148,13 +148,27 @@ SWEA 참고하여 정렬만 해놓음.
 
 ### chapter02. 자료구조
 
-#### 1/30  7:00pm - 9:00pm(예정)
+#### 1/30  7:00pm - 9:00pm
 
 ##### 스택
 
 1. 백준 문제 10828. 스택 https://www.acmicpc.net/problem/10828
+
 2. 백준 문제 9012. 괄호 https://www.acmicpc.net/problem/9012
+
 3. 백준 문제 4949. 균형잡힌 세상 https://www.acmicpc.net/problem/4949
+
 4. 백준 문제 1874. 스택 수열 https://www.acmicpc.net/problem/1874
 
-+어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
+   +어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
+
+   - 보연님 보충수업으로 불참
+
+#### 2/2  7:00pm - 9:00pm(예정)
+
+##### 큐
+
+1. 백준 문제 18258. 큐 2 https://www.acmicpc.net/problem/18258
+2. 백준 문제 2164. 카드2 https://www.acmicpc.net/problem/2164
+3. 백준 문제 11866. 요세푸스 문제 0 https://www.acmicpc.net/problem/11866
+4. 백준 문제 1966. 프린터 큐 https://www.acmicpc.net/problem/1966
