@@ -20,22 +20,36 @@ public class Baek10828 {
 		for (int tc = 0; tc < N; tc++) {
 			
 			order = bfr.readLine();
+			//push 입력 들어오면
 			if (order.contains("push")) {
+				//쪼개서 숫자부분을 스택 push 수행
 				String[] data = order.split(" ");
 				st.push(Integer.parseInt(data[1]));
-			} else if (order.equals("pop")) {
+			}
+			//pop 입력 들어오면
+			else if (order.equals("pop")) {
+				//비어있으면 -1 출력, 안비어있으면 스택 pop 수행
 				if (st.empty())
 					bfw.write("-1\n");
 				else
 					bfw.write(String.valueOf(st.pop())+"\n");
-			} else if (order.equals("size")) {
+			}
+			//size 입력 들어오면
+			else if (order.equals("size")) {
+				//스택 size 수행 해서 출력
 				bfw.write(String.valueOf(st.size())+"\n");
-			} else if (order.equals("empty")) {
+			}
+			//empty 입력 들어오면
+			else if (order.equals("empty")) {
+				//비어있으면 1, 안비어있으면 0 출력
 				if (st.empty())
 					bfw.write("1\n");
 				else
 					bfw.write("0\n");
-			} else if (order.equals("top")) {
+			}
+			//top 입력 들어오면
+			else if (order.equals("top")) {
+				//비어있으면 -1, 안비어있으면 맨 위꺼 스택 peek 수행해서 출력
 				if (st.empty())
 					bfw.write("-1\n");
 				else
@@ -46,6 +60,8 @@ public class Baek10828 {
 		bfw.close();
 	}
 }
+
+//스캐너 시간초과 난 코드
 
 //public class Baek10828 {
 //	public static void main(String[] args) {
