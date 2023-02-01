@@ -1,4 +1,4 @@
-# algostudy2023
+# :star2: algostudy2023 :star2:
 
 <table>
   <tr>
@@ -10,7 +10,16 @@
   </tr>
 </table><br/>
 
-## 휘뚜루마뚜루 알고리즘 스터디 개요
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+
+## 🙌 Introduction
 
 - 스터디 참여자 : **김소희(leader), 조윤상, 김보연, 윤석준, 박재민**
 - 스터디 진행 1시즌 : **23/01/16~ 3개월** / 3개월 후 스터디 방향 및 방식 재논의
@@ -18,9 +27,16 @@
 - 스터디 사용 언어 : **JAVA**
 - 스터디 목적
   1. 함께 알고리즘 마스터
-  2. 다같이 IM 등급 이상 받기 (가능하면 A이상)
+  2. **다같이 IM 등급 이상 받기 (가능하면 A이상)**
 
-## 코드 제출 방법
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## :computer: How to Submit
 
 0. (최초1회) **자신의 영문이름으로 된 브런치** 생성
 
@@ -34,59 +50,61 @@
 
 **반드시 Java로 작성하며, 완성하지 못하더라도 슈도코드를 최대한 작성**
 
+<br/>
+<br/>
 
+---
 
-## 스터디 주제 순서 
+<br/>
 
-### chapter01.알고리즘 문제 익숙해지기
+## :books: Study Topic
+
+### chapter01. 알고리즘 문제 익숙해지기
 
 - 매 스터디마다 정하는 공통문제를 통해 알고리즘 문제 풀이에 익숙해지기
 - (온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법)
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
+
+
 ### chapter02. 자료구조
 
 - 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
 
-### chapter03
+
+
+### chapter03.
 
 - 정렬, 재귀 (나눠야 하나?)
 
 
 
-### //이 아래로는 순서 미확정.
+### chapter04. ~
 
 SWEA 참고하여 정렬만 해놓음.
 
 - 재귀, 다이나믹 프로그래밍(DP)
-
 - 그래프 문제, 기초 DFS와 BFS
-
 - DFS와 BFS 응용, 최단 경로 구하기
-
 - 기초 시간복잡도와 Big-O표기법
-
 - 그리디 알고리즘
-
 - 이분 탐색과 분할정복, 파라메트릭 탐색
-
 - 백트랙킹
-
 - (문자열 탐색?) 
-
 - (투 포인터? 슬라이딩 윈도우?) 
-
 - (NP-Complete, 근사 알고리즘?)
-
 - 완전탐색과 시뮬레이션, 브루트 포스
-
 - 구현
-
 - (해시, 덱, 힙?) (희망하는 사람이 있다면)
 
-  
+<br/>
+<br/>
 
-#### 스터디 주제 짜는 데 참고한 것
+---
+
+<br/>
+
+##  :link: Reference Link
 
 - 초급-중급 알고리즘 스터디 커리큘럼 추천 (3개월)
   https://dev-dain.tistory.com/155
@@ -101,7 +119,14 @@ SWEA 참고하여 정렬만 해놓음.
   https://github.com/dsc-sookmyung/2020-Algorithm-study
   https://github.com/dev-dain/Dukgorithm
 
-## 읽어볼 만한 것
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## :open_book: What to Read
 
 - 알고리즘 공부법 관련 첫 번째
   https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html
@@ -115,7 +140,14 @@ SWEA 참고하여 정렬만 해놓음.
 - SWEA Programming Intermediate, Advanced, Professional 코스 강좌들
   https://swexpertacademy.com/main/learn/course/courseList.do#none
 
-## 스터디 진행 상황
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## :pencil: Review
 
 ### chapter01. 알고리즘 문제 익숙해지기
 
@@ -150,7 +182,7 @@ SWEA 참고하여 정렬만 해놓음.
 
 #### 1/30  7:00pm - 9:00pm
 
-##### 스택
+##### :pencil2: 스택
 
 1. 백준 문제 10828. 스택 https://www.acmicpc.net/problem/10828
 
@@ -166,7 +198,7 @@ SWEA 참고하여 정렬만 해놓음.
 
 #### 2/2  7:00pm - 9:00pm(예정)
 
-##### 큐
+##### :pencil2: 큐
 
 1. 백준 문제 18258. 큐 2 https://www.acmicpc.net/problem/18258
 2. 백준 문제 2164. 카드2 https://www.acmicpc.net/problem/2164
