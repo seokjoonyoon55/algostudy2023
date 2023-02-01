@@ -9,8 +9,14 @@
     <td align="center"><a href="https://github.com/YOUNPRIZE"><img src="https://avatars.githubusercontent.com/u/76830587?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>조윤상 YOUNPRIZE</b></sub></a><br /><sub><b>치어리더</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
+
+
+<br/>
+<br/>
+
 ---
 
+<br/>
 
 
 ## 🙌 Introduction
@@ -23,11 +29,12 @@
   1. 함께 알고리즘 마스터
   2. **다같이 IM 등급 이상 받기 (가능하면 A이상)**
 
-
+<br/>
+<br/>
 
 ---
 
-
+<br/>
 
 ## :computer: How to Submit
 
@@ -43,11 +50,12 @@
 
 **반드시 Java로 작성하며, 완성하지 못하더라도 슈도코드를 최대한 작성**
 
-
+<br/>
+<br/>
 
 ---
 
-
+<br/>
 
 ## :books: Study Topic
 
@@ -89,11 +97,12 @@ SWEA 참고하여 정렬만 해놓음.
 - 구현
 - (해시, 덱, 힙?) (희망하는 사람이 있다면)
 
-
+<br/>
+<br/>
 
 ---
 
-
+<br/>
 
 ##  :link: Reference Link
 
@@ -110,11 +119,12 @@ SWEA 참고하여 정렬만 해놓음.
   https://github.com/dsc-sookmyung/2020-Algorithm-study
   https://github.com/dev-dain/Dukgorithm
 
-
+<br/>
+<br/>
 
 ---
 
-
+<br/>
 
 ## :open_book: What to Read
 
@@ -130,11 +140,12 @@ SWEA 참고하여 정렬만 해놓음.
 - SWEA Programming Intermediate, Advanced, Professional 코스 강좌들
   https://swexpertacademy.com/main/learn/course/courseList.do#none
 
-
+<br/>
+<br/>
 
 ---
 
-
+<br/>
 
 ## :pencil: Review
 
