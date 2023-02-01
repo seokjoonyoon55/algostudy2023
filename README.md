@@ -1,4 +1,4 @@
-# algostudy2023
+# :star2: algostudy2023 :star2:
 
 <table>
   <tr>
@@ -9,8 +9,7 @@
     <td align="center"><a href="https://github.com/YOUNPRIZE"><img src="https://avatars.githubusercontent.com/u/76830587?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>조윤상 YOUNPRIZE</b></sub></a><br /><sub><b>치어리더</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
-
-## 휘뚜루마뚜루 알고리즘 스터디 개요
+### 🙌 Introduction
 
 - 스터디 참여자 : **김소희(leader), 조윤상, 김보연, 윤석준, 박재민**
 - 스터디 진행 1시즌 : **23/01/16~ 3개월** / 3개월 후 스터디 방향 및 방식 재논의
@@ -18,9 +17,11 @@
 - 스터디 사용 언어 : **JAVA**
 - 스터디 목적
   1. 함께 알고리즘 마스터
-  2. 다같이 IM 등급 이상 받기 (가능하면 A이상)
+  2. **다같이 IM 등급 이상 받기 (가능하면 A이상)**
 
-## 코드 제출 방법
+
+
+### :computer: How to Submit
 
 0. (최초1회) **자신의 영문이름으로 된 브런치** 생성
 
@@ -36,25 +37,23 @@
 
 
 
-## 스터디 주제 순서 
+### :books: Study Topic
 
-### chapter01.알고리즘 문제 익숙해지기
+#### chapter01. 알고리즘 문제 익숙해지기
 
 - 매 스터디마다 정하는 공통문제를 통해 알고리즘 문제 풀이에 익숙해지기
 - (온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법)
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
-### chapter02. 자료구조
+#### chapter02. 자료구조
 
 - 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
 
-### chapter03
+#### chapter03.
 
 - 정렬, 재귀 (나눠야 하나?)
 
-
-
-### //이 아래로는 순서 미확정.
+#### chapter04. ~
 
 SWEA 참고하여 정렬만 해놓음.
 
@@ -86,7 +85,7 @@ SWEA 참고하여 정렬만 해놓음.
 
   
 
-#### 스터디 주제 짜는 데 참고한 것
+###  :link: Reference Link
 
 - 초급-중급 알고리즘 스터디 커리큘럼 추천 (3개월)
   https://dev-dain.tistory.com/155
@@ -101,7 +100,9 @@ SWEA 참고하여 정렬만 해놓음.
   https://github.com/dsc-sookmyung/2020-Algorithm-study
   https://github.com/dev-dain/Dukgorithm
 
-## 읽어볼 만한 것
+
+
+### :open_book: What to Read
 
 - 알고리즘 공부법 관련 첫 번째
   https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html
@@ -115,26 +116,28 @@ SWEA 참고하여 정렬만 해놓음.
 - SWEA Programming Intermediate, Advanced, Professional 코스 강좌들
   https://swexpertacademy.com/main/learn/course/courseList.do#none
 
-## 스터디 진행 상황
 
-### chapter01. 알고리즘 문제 익숙해지기
 
-#### 1/16  7:00pm - 9:00pm
+### :pencil: Review
+
+#### chapter01. 알고리즘 문제 익숙해지기
+
+##### 1/16  7:00pm - 9:00pm
 
 1. SWEA 문제 1926.간단한 369 게임 #링크생략
 2. SWEA 문제 1954. 달팽이 숫자 #링크생략
 3. SWEA 문제 1966. 숫자를 정렬하자 #링크생략
 
-#### 1/19  7:00pm - 9:00pm
+##### 1/19  7:00pm - 9:00pm
 
 1. 백준 문제 1769. 3의 배수 https://www.acmicpc.net/problem/1769
 2. 백준 문제 12605. 단어순서 뒤집기 https://www.acmicpc.net/problem/12605
 3. 백준 문제 17608. 막대기 https://www.acmicpc.net/problem/17608
    - 보연님 아프셔서 불참
 
-#### 1/23 설연휴 스터디 생략
+##### 1/23 설연휴 스터디 생략
 
-#### 1/26  7:00pm - 9:00pm(예정)
+##### 1/26  7:00pm - 9:00pm(예정)
 
 1. 백준 문제 1065. 한수 https://www.acmicpc.net/problem/1065
 2. 백준 문제 2563. 색종이 https://www.acmicpc.net/problem/2563
@@ -146,11 +149,11 @@ SWEA 참고하여 정렬만 해놓음.
 
 
 
-### chapter02. 자료구조
+#### chapter02. 자료구조
 
-#### 1/30  7:00pm - 9:00pm
+##### 1/30  7:00pm - 9:00pm
 
-##### 스택
+##### :pencil2: 스택
 
 1. 백준 문제 10828. 스택 https://www.acmicpc.net/problem/10828
 
@@ -164,9 +167,9 @@ SWEA 참고하여 정렬만 해놓음.
 
    - 보연님 보충수업으로 불참
 
-#### 2/2  7:00pm - 9:00pm(예정)
+##### 2/2  7:00pm - 9:00pm(예정)
 
-##### 큐
+##### :pencil2: 큐
 
 1. 백준 문제 18258. 큐 2 https://www.acmicpc.net/problem/18258
 2. 백준 문제 2164. 카드2 https://www.acmicpc.net/problem/2164
