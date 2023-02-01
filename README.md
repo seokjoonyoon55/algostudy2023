@@ -9,7 +9,11 @@
     <td align="center"><a href="https://github.com/YOUNPRIZE"><img src="https://avatars.githubusercontent.com/u/76830587?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=younprize" widt="100px"><br /><sub><b>조윤상 YOUNPRIZE</b></sub></a><br /><sub><b>치어리더</b><br>ISFJ</br></sub></td>     
   </tr>
 </table><br/>
-### 🙌 Introduction
+---
+
+
+
+## 🙌 Introduction
 
 - 스터디 참여자 : **김소희(leader), 조윤상, 김보연, 윤석준, 박재민**
 - 스터디 진행 1시즌 : **23/01/16~ 3개월** / 3개월 후 스터디 방향 및 방식 재논의
@@ -21,7 +25,11 @@
 
 
 
-### :computer: How to Submit
+---
+
+
+
+## :computer: How to Submit
 
 0. (최초1회) **자신의 영문이름으로 된 브런치** 생성
 
@@ -37,55 +45,57 @@
 
 
 
-### :books: Study Topic
+---
 
-#### chapter01. 알고리즘 문제 익숙해지기
+
+
+## :books: Study Topic
+
+### chapter01. 알고리즘 문제 익숙해지기
 
 - 매 스터디마다 정하는 공통문제를 통해 알고리즘 문제 풀이에 익숙해지기
 - (온라인 저지 웹페이지의 표준 입/출력 공부 자바 문법)
 - (수학 알고리즘 문제? 참고: https://www.acmicpc.net/workbook/view/8997)
 
-#### chapter02. 자료구조
+
+
+### chapter02. 자료구조
 
 - 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
 
-#### chapter03.
+
+
+### chapter03.
 
 - 정렬, 재귀 (나눠야 하나?)
 
-#### chapter04. ~
+
+
+### chapter04. ~
 
 SWEA 참고하여 정렬만 해놓음.
 
 - 재귀, 다이나믹 프로그래밍(DP)
-
 - 그래프 문제, 기초 DFS와 BFS
-
 - DFS와 BFS 응용, 최단 경로 구하기
-
 - 기초 시간복잡도와 Big-O표기법
-
 - 그리디 알고리즘
-
 - 이분 탐색과 분할정복, 파라메트릭 탐색
-
 - 백트랙킹
-
 - (문자열 탐색?) 
-
 - (투 포인터? 슬라이딩 윈도우?) 
-
 - (NP-Complete, 근사 알고리즘?)
-
 - 완전탐색과 시뮬레이션, 브루트 포스
-
 - 구현
-
 - (해시, 덱, 힙?) (희망하는 사람이 있다면)
 
-  
 
-###  :link: Reference Link
+
+---
+
+
+
+##  :link: Reference Link
 
 - 초급-중급 알고리즘 스터디 커리큘럼 추천 (3개월)
   https://dev-dain.tistory.com/155
@@ -102,7 +112,11 @@ SWEA 참고하여 정렬만 해놓음.
 
 
 
-### :open_book: What to Read
+---
+
+
+
+## :open_book: What to Read
 
 - 알고리즘 공부법 관련 첫 번째
   https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html
@@ -118,26 +132,30 @@ SWEA 참고하여 정렬만 해놓음.
 
 
 
-### :pencil: Review
+---
 
-#### chapter01. 알고리즘 문제 익숙해지기
 
-##### 1/16  7:00pm - 9:00pm
+
+## :pencil: Review
+
+### chapter01. 알고리즘 문제 익숙해지기
+
+#### 1/16  7:00pm - 9:00pm
 
 1. SWEA 문제 1926.간단한 369 게임 #링크생략
 2. SWEA 문제 1954. 달팽이 숫자 #링크생략
 3. SWEA 문제 1966. 숫자를 정렬하자 #링크생략
 
-##### 1/19  7:00pm - 9:00pm
+#### 1/19  7:00pm - 9:00pm
 
 1. 백준 문제 1769. 3의 배수 https://www.acmicpc.net/problem/1769
 2. 백준 문제 12605. 단어순서 뒤집기 https://www.acmicpc.net/problem/12605
 3. 백준 문제 17608. 막대기 https://www.acmicpc.net/problem/17608
    - 보연님 아프셔서 불참
 
-##### 1/23 설연휴 스터디 생략
+#### 1/23 설연휴 스터디 생략
 
-##### 1/26  7:00pm - 9:00pm(예정)
+#### 1/26  7:00pm - 9:00pm(예정)
 
 1. 백준 문제 1065. 한수 https://www.acmicpc.net/problem/1065
 2. 백준 문제 2563. 색종이 https://www.acmicpc.net/problem/2563
@@ -149,9 +167,9 @@ SWEA 참고하여 정렬만 해놓음.
 
 
 
-#### chapter02. 자료구조
+### chapter02. 자료구조
 
-##### 1/30  7:00pm - 9:00pm
+#### 1/30  7:00pm - 9:00pm
 
 ##### :pencil2: 스택
 
@@ -167,7 +185,7 @@ SWEA 참고하여 정렬만 해놓음.
 
    - 보연님 보충수업으로 불참
 
-##### 2/2  7:00pm - 9:00pm(예정)
+#### 2/2  7:00pm - 9:00pm(예정)
 
 ##### :pencil2: 큐
 
