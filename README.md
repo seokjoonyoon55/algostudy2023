@@ -196,7 +196,7 @@ SWEA 참고하여 정렬만 해놓음.
 
    - 보연님 보충수업으로 불참
 
-#### 2/2  7:00pm - 9:00pm(예정)
+#### 2/2  7:00pm - 9:00pm
 
 ##### :pencil2: 큐
 
@@ -204,3 +204,13 @@ SWEA 참고하여 정렬만 해놓음.
 2. 백준 문제 2164. 카드2 https://www.acmicpc.net/problem/2164
 3. 백준 문제 11866. 요세푸스 문제 0 https://www.acmicpc.net/problem/11866
 4. 백준 문제 1966. 프린터 큐 https://www.acmicpc.net/problem/1966
+
+
+
+#### 2/6  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 덱,힙	
+
+1. 백준 문제 10866. 덱 https://www.acmicpc.net/problem/10866
+2. 백준 문제 1021. 회전하는 큐 https://www.acmicpc.net/problem/1021
+3. 백준 문제 11286. 절댓값 힙 https://www.acmicpc.net/problem/11286
