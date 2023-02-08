@@ -73,9 +73,9 @@
 
 
 
-### chapter03.
+### chapter03. 알고리즘 기초
 
-- 정렬, 재귀 (나눠야 하나?)
+- 정렬, 재귀
 
 
 
@@ -192,9 +192,9 @@ SWEA 참고하여 정렬만 해놓음.
 
 4. 백준 문제 1874. 스택 수열 https://www.acmicpc.net/problem/1874
 
-   +어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
+   어렵다는 감시문제 링크만 기록(푸는 문제 아님) https://www.acmicpc.net/problem/15683
 
-   - 보연님 보충수업으로 불참
+   - 김보연 보충수업으로 불참
 
 #### 2/2  7:00pm - 9:00pm
 
@@ -207,10 +207,21 @@ SWEA 참고하여 정렬만 해놓음.
 
 
 
-#### 2/6  7:00pm - 9:00pm(예정)
+#### 2/7  7:00pm - 9:00pm
 
 ##### :pencil2: 덱,힙	
 
 1. 백준 문제 10866. 덱 https://www.acmicpc.net/problem/10866
 2. 백준 문제 1021. 회전하는 큐 https://www.acmicpc.net/problem/1021
 3. 백준 문제 11286. 절댓값 힙 https://www.acmicpc.net/problem/11286
+   + 김소희 온라인으로 참여
+
+
+
+#### 2/9  7:00pm - 9:00pm (예정)
+
+##### :pencil2: 재귀	
+
+1. 백준 문제 10872. 팩토리얼 https://www.acmicpc.net/problem/10872
+2. 백준 문제 10870. 피보나치 수 5 https://www.acmicpc.net/problem/10870
+3. 백준 문제 25501. 재귀의 귀재 https://www.acmicpc.net/problem/25501
