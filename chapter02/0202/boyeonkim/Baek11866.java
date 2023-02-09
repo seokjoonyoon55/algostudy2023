@@ -28,6 +28,5 @@ public class BaekJoon11866 {
     		}
     	}
     	System.out.print(">");
-    	
     }
 }
