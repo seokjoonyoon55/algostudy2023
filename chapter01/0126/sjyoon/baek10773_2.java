@@ -15,8 +15,8 @@ public class baek10773_2 {
 		for (int i=0;i<K;i++) {
 			val = sc.nextInt();
 			if (val==0) {
-				cnt++;
-				idx = i;
+				cnt++; // 0의 개수
+				idx = i; //0의 마지막으로 들어오는 index
 			} else {arr[i-cnt]=val;}
 		}
 		

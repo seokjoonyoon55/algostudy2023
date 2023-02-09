@@ -43,11 +43,6 @@ public class baekjoon1021 {
 				pick.remove();
 				dq.remove();
 				list.remove(0);
-			} else if (num == dq.peekLast()) {
-				dq.addFirst(dq.removeLast());
-				list.add(0, list.get(list.size()-1));
-				list.remove(list.size()-1);
-				pollCnt++;
 			} else {
 				if(list.indexOf(num) > list.size()/2) {
 					dq.addFirst(dq.removeLast());
