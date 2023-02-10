@@ -221,10 +221,18 @@ SWEA 참고하여 정렬만 해놓음.
 
 ### chapter03. 알고리즘 기초
 
-#### 2/9  7:00pm - 9:00pm (예정)
+#### 2/9  7:00pm - 9:00pm
 
 ##### :pencil2: 재귀	
 
 1. 백준 문제 10872. 팩토리얼 https://www.acmicpc.net/problem/10872
 2. 백준 문제 10870. 피보나치 수 5 https://www.acmicpc.net/problem/10870
 3. 백준 문제 25501. 재귀의 귀재 https://www.acmicpc.net/problem/25501
+
+#### 2/13  7:00pm - 9:00pm (예정)
+
+##### :pencil2: 역량테스트 문제+재귀	
+
+1. 백준 문제 14501. 퇴사 https://www.acmicpc.net/problem/14501
+2. 백준 문제 24060. 알고리즘 수업 - 병합 정렬 1 https://www.acmicpc.net/problem/24060
+3. 백준 문제 11729. 하노이 탑 https://www.acmicpc.net/problem/11729
