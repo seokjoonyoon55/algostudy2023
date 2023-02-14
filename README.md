@@ -78,7 +78,7 @@
 ### chapter03. 알고리즘 기초
 
 - 정렬, 재귀 등
-- 2/9 재귀
+- 2/9 재귀, 2/13 역량테스트 문제+재귀
 
 
 
@@ -231,8 +231,21 @@ SWEA 참고하여 정렬만 해놓음.
 
 #### 2/13  7:00pm - 9:00pm (예정)
 
-##### :pencil2: 역량테스트 문제+재귀	
+##### :pencil2: 역량테스트 기출문제+재귀	
 
 1. 백준 문제 14501. 퇴사 https://www.acmicpc.net/problem/14501
 2. 백준 문제 24060. 알고리즘 수업 - 병합 정렬 1 https://www.acmicpc.net/problem/24060
 3. 백준 문제 11729. 하노이 탑 https://www.acmicpc.net/problem/11729
+
+#### 2/16  7:00pm - 9:00pm (예정)
+
+##### :pencil2: 역량테스트 기출문제+재귀+DFS BFS	
+
+1. 백준 문제 14889. 스타트와 링크 https://www.acmicpc.net/problem/14889
+2. 백준 문제 15500. 이상한 하노이 탑 https://www.acmicpc.net/problem/15500
+3. 백준 문제 24479. 알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
+4. 백준 문제 24444. 알고리즘 수업 - 너비 우선 탐색 1 https://www.acmicpc.net/problem/24444
+
+
+
+   
