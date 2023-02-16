@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
 
+//틀림
 public class Baek24479_2 {
 	public static int vorder = 1;
 	public static void main(String[] args) throws IOException {
