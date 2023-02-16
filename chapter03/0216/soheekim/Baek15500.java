@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//98퍼 실패
 public class Baek15500 {
 	static int cnt=0;
 	public static void main(String[] args) throws NumberFormatException, IOException {

@@ -2,6 +2,7 @@ package study0216;
 
 import java.util.Scanner;
 
+//순열 구현하다가 시간 다 감
 public class Baek14889 {
 	public static int currentIdx = 0;
 
