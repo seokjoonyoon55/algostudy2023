@@ -77,9 +77,10 @@
 
 ### chapter03. 알고리즘 기초
 
-- 정렬, 재귀 등
+- 정렬, 재귀, BFS, DFS 등
 - 2/9 재귀, 2/13 역량테스트 문제+재귀, 2/16 재귀+DFS BFS
-- 2/20부터 swea문제 풀이로 인해 private 레포에서 진행 중
+- 2/20 및 2/23은 swea문제 풀이로 인해 private 레포에서 진행
+- 2/27 BFS, 3/2 DFS
 
 
 
@@ -218,7 +219,8 @@
 1. 백준 문제 10866. 덱 https://www.acmicpc.net/problem/10866
 2. 백준 문제 1021. 회전하는 큐 https://www.acmicpc.net/problem/1021
 3. 백준 문제 11286. 절댓값 힙 https://www.acmicpc.net/problem/11286
-   + 김소희 온라인으로 참여
+
+
 
 ### chapter03. 알고리즘 기초
 
@@ -251,10 +253,39 @@
 
 ##### :pencil2: SWEA 문제 설계공유 및 코드리뷰
 
-1. 약 13개 문제(문제번호 및 링크 생략)
+1. 약 13개 문제 (문제번호 및 링크 생략)
+
+#### 2/23  7:00pm - 9:00pm
+
+##### :pencil2: SWEA 문제 설계공유 및 코드리뷰
+
+1. SWEA 1215, 1216, 5432, 5644, 5658 (링크 생략)
+
+#### 2/27  7:00pm - 9:00pm
+
+##### :pencil2: BFS	
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글 https://blog.encrypted.gg/941
+
+1. 백준 문제 24444. 알고리즘 수업 - 너비 우선 탐색 1 https://www.acmicpc.net/problem/24444
+2. 백준 문제 2606. 바이러스 https://www.acmicpc.net/problem/2606
+3. 백준 문제 7562. 나이트의 이동 https://www.acmicpc.net/problem/7562
+
+#### 3/2  7:00pm - 9:00pm(예정)
+
+##### :pencil2: DFS	
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글 https://blog.encrypted.gg/942
+
+1. 백준 문제 24479. 알고리즘 수업 - 깊이 우선 탐색 1 https://www.acmicpc.net/problem/24479
+2. 백준 문제 4963. 섬의 개수 https://www.acmicpc.net/problem/4963
+3. 백준 문제 2210. 숫자판 점프 https://www.acmicpc.net/problem/2210
 
 
 
 
 
-   
