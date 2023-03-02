@@ -8,11 +8,11 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class baekjoon4963_bfs {
-	public static class Cordinate {
+	public static class Coordinate {
 		int r;
 		int c;
 
-		public Cordinate(int r, int c) {
+		public Coordinate(int r, int c) {
 			this.r = r;
 			this.c = c;
 		}
@@ -44,15 +44,15 @@ public class baekjoon4963_bfs {
 				}
 			}
 
-			Queue<Cordinate> q = new ArrayDeque<>();
+			Queue<Coordinate> q = new ArrayDeque<>();
 			for (int i = 0; i < h; i++) {
 				for (int j = 0; j < w; j++) {
 					if (!visited[i][j]) {
 						visited[i][j] = true;
 						cnt++;
-						q.offer(new Cordinate(i, j));
+						q.offer(new Coordinate(i, j));
 						while (!q.isEmpty()) {
-							Cordinate island = q.remove();
+							Coordinate island = q.remove();
 							int I = island.r;
 							int J = island.c;
 							for (int k = 0; k < 8; k++) {
@@ -61,7 +61,7 @@ public class baekjoon4963_bfs {
 								if (nextI >= 0 && nextI < h && nextJ >= 0 && nextJ < w) {
 									if (!visited[nextI][nextJ]) {
 										visited[nextI][nextJ] = true;
-										q.offer(new Cordinate(nextI, nextJ));
+										q.offer(new Coordinate(nextI, nextJ));
 									}
 								}
 							}
