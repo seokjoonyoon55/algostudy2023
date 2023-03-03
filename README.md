@@ -79,8 +79,8 @@
 
 - 정렬, 재귀, BFS, DFS 등
 - 2/9 재귀, 2/13 역량테스트 문제+재귀, 2/16 재귀+DFS BFS
-- 2/20 및 2/23은 swea문제 풀이로 인해 private 레포에서 진행
-- 2/27 BFS, 3/2 DFS
+- 2/20, 2/23은 swea문제 풀이로 인해 private 레포에서 진행
+- 2/27 BFS, 3/2 DFS, 3/6 델타탐색
 
 
 
@@ -273,7 +273,7 @@
 2. 백준 문제 2606. 바이러스 https://www.acmicpc.net/problem/2606
 3. 백준 문제 7562. 나이트의 이동 https://www.acmicpc.net/problem/7562
 
-#### 3/2  7:00pm - 9:00pm(예정)
+#### 3/2  7:00pm - 9:00pm
 
 ##### :pencil2: DFS	
 
@@ -285,7 +285,14 @@
 2. 백준 문제 4963. 섬의 개수 https://www.acmicpc.net/problem/4963
 3. 백준 문제 2210. 숫자판 점프 https://www.acmicpc.net/problem/2210
 
+#### 3/6  7:00pm - 9:00pm(예정)
 
+##### :pencil2: 델타 탐색	
 
+0. 바킹독 강의 없음
 
+1. 백준 문제 1012. 유기농 배추 https://www.acmicpc.net/problem/1012 
+2. 백준 문제 2583. 영역 구하기 https://www.acmicpc.net/problem/2583
+3. 백준 문제 2468. 안전 영역 https://www.acmicpc.net/problem/2468
+4. 백준 문제 2178. 미로 탐색 https://www.acmicpc.net/problem/2178
 
