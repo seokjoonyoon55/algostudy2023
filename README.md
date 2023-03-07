@@ -84,9 +84,15 @@
 
 
 
-### chapter04. ~
+### chapter04. 알고리즘 심화
 
-순서 미정. SWEA 강의 참고하여 기재만 해놓음.
++ 3/9 백트래킹
+
+<br/>
+
+<br/>
+
+이하 순서 미정주제. SWEA 강의 참고하여 기재만 해놓음.
 
 - 완전탐색과 시뮬레이션, 브루트 포스
 - 그리디 알고리즘
@@ -95,7 +101,6 @@
 - DFS와 BFS 응용, 최단 경로 구하기
 - 기초 시간복잡도와 Big-O표기법
 - 이분 탐색과 분할정복, 파라메트릭 탐색
-- 백트랙킹
 - (문자열 탐색?) 
 - (투 포인터? 슬라이딩 윈도우?) 
 - (NP-Complete, 근사 알고리즘?)
@@ -285,14 +290,33 @@
 2. 백준 문제 4963. 섬의 개수 https://www.acmicpc.net/problem/4963
 3. 백준 문제 2210. 숫자판 점프 https://www.acmicpc.net/problem/2210
 
-#### 3/6  7:00pm - 9:00pm(예정)
+#### 3/6  7:00pm - 9:00pm
 
-##### :pencil2: 델타 탐색	
+##### :pencil2: 당일 치뤄진 역량테스트 문제 코드리뷰로 대체
 
-0. 바킹독 강의 없음
+#### 3/8  8:00 - 8:50am
+
+:pencil2: **델타 탐색**	
 
 1. 백준 문제 1012. 유기농 배추 https://www.acmicpc.net/problem/1012 
 2. 백준 문제 2583. 영역 구하기 https://www.acmicpc.net/problem/2583
 3. 백준 문제 2468. 안전 영역 https://www.acmicpc.net/problem/2468
 4. 백준 문제 2178. 미로 탐색 https://www.acmicpc.net/problem/2178
 
+### chapter04. 알고리즘 심화
+
+#### 3/9  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 백트래킹
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글 https://blog.encrypted.gg/945
+
+1. 백준 문제 15649. N과 M (1) https://www.acmicpc.net/problem/15649
+
+2. 백준 문제 15650. N과 M (2) https://www.acmicpc.net/problem/15650
+
+3. 백준 문제 14888. 연산자 끼워넣기 https://www.acmicpc.net/problem/14888
+
+4. 백준 문제 14889. 스타트와 링크 https://www.acmicpc.net/problem/14889
