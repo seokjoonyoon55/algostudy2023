@@ -3,7 +3,7 @@
         <tr>
             <td rowspan="2" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; height:44px; text-align:center; vertical-align:middle; white-space:nowrap; width:122px">　</td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/15649" target="_blank">15649.N과 M (1)</a></td>
-            <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/15650" target="_blank">15650.N과 M (1)</a></td>
+            <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/15650" target="_blank">15650.N과 M (2)</a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/14888" target="_blank">14888.연산자 끼워넣기</a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/14889" target="_blank">14889.스타트와 링크</a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"></td>
@@ -22,10 +22,10 @@
         </tr>
         <tr>
             <td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; height:22px; text-align:center; vertical-align:middle; white-space:nowrap">김보연</td>
-            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
-            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
-            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
-            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
+            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap">74532 </td>
+            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap">2252 </td>
+            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap">12920 </td>
+            <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap">116 </td>
             <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
             <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
             <td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; text-align:center; vertical-align:middle; white-space:nowrap"> </td>
@@ -87,3 +87,4 @@
         </tr>
     </tbody>
 </table>
+
