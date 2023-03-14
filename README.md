@@ -225,6 +225,22 @@
 2. 백준 문제 1021. 회전하는 큐 https://www.acmicpc.net/problem/1021
 3. 백준 문제 11286. 절댓값 힙 https://www.acmicpc.net/problem/11286
 
+#### 3/13  7:00pm - 9:00pm
+
+##### :pencil2: 트리
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1019
+
+1. 백준 문제 11725.트리의 부모 찾기https://www.acmicpc.net/problem/11725
+
+2. 백준 문제 1991.트리 순회 https://www.acmicpc.net/problem/1991
+
+3. 백준 문제 3584.가장 가까운 공통 조상 https://www.acmicpc.net/problem/3584
+
+4. (추가) 2263.트리의 순회 https://www.acmicpc.net/problem/2263
+
 
 
 ### chapter03. 알고리즘 기초
@@ -305,7 +321,7 @@
 
 ### chapter04. 알고리즘 심화
 
-#### 3/9  7:00pm - 9:00pm(예정)
+#### 3/9  7:00pm - 9:00pm
 
 ##### :pencil2: 백트래킹
 
@@ -320,3 +336,15 @@
 3. 백준 문제 14888. 연산자 끼워넣기 https://www.acmicpc.net/problem/14888
 
 4. 백준 문제 14889. 스타트와 링크 https://www.acmicpc.net/problem/14889
+
+#### 3/16  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 이분탐색
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/985
+
+1. 백준 문제 10816. 숫자 카드 2 https://www.acmicpc.net/problem/10816
+
+2. 백준 문제 2805. 나무 자르기 https://www.acmicpc.net/problem/2805
