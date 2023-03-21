@@ -86,7 +86,7 @@
 
 ### chapter04. 알고리즘 심화
 
-+ 3/9 백트래킹, 3/16 이분탐색
++ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬
 
 <br/>
 
@@ -241,7 +241,19 @@
 
 4. (추가) 2263.트리의 순회 https://www.acmicpc.net/problem/2263
 
+#### 3/20  7:00pm - 9:00pm(예정)
 
+##### :pencil2: 그래프
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
+
+1. 백준 문제 5567. 결혼식 https://www.acmicpc.net/problem/5567
+
+2. 백준 문제 1260. DFS와 BFS https://www.acmicpc.net/problem/1260
+
+3. 백준 문제 11403. 경로 찾기 https://www.acmicpc.net/problem/11403
 
 ### chapter03. 알고리즘 기초
 
@@ -349,7 +361,7 @@
 
 2. 백준 문제 2805. 나무 자르기 https://www.acmicpc.net/problem/2805
 
-#### 3/20  7:00pm - 9:00pm(예정)
+#### 3/20  7:00pm - 9:00pm
 
 ##### :pencil2: 이분탐색
 

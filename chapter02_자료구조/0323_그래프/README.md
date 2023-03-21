@@ -5,7 +5,7 @@
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/1260" target="_blank">1260.DFS와 BFS</a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/5567" target="_blank">5567.결혼식</a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/11403" target="_blank">11403.경로찾기</a></td>
-            <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/1966" target="_blank">1966.프린터 큐</a></td>
+            <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"><a href="https://www.acmicpc.net/problem/1966" target="_blank"></a></td>
             <td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; text-align:center; vertical-align:middle; white-space:nowrap; width:190px"></td>
         </tr>
         <tr>
@@ -87,3 +87,4 @@
         </tr>
     </tbody>
 </table>
+
