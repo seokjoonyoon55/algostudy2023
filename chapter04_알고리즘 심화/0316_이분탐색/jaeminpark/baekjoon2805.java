@@ -41,8 +41,8 @@ public class baekjoon2805 {
 					sum += (wood.get(i) - mid);
 				}
 			}
-//			System.out.prlongf("%d %d %d sum : %d", left, mid, right, sum);
-//			System.out.prlongln();
+//			System.out.printf("%d %d %d sum : %d", left, mid, right, sum);
+//			System.out.println();
 
 			if (sum >= M) {
 				left = mid + 1;

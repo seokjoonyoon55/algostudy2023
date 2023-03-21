@@ -19,21 +19,21 @@ public class baekjoon10814 {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		StringBuilder sb = new StringBuilder();
 		Map<Integer, String> map = new HashMap<>();
-		List<Integer> arr = new ArrayList<>();
+		List<Integer> list = new ArrayList<>();
 		int N = Integer.parseInt(br.readLine());
 		
 		for (int i = 0; i < N; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int key = Integer.parseInt(st.nextToken());
 			map.put(key, map.getOrDefault(key, "") + st.nextToken() + " ");
-			if(!arr.contains(key)) {
-				arr.add(key);
+			if(!list.contains(key)) {
+				list.add(key);
 			}
 		}
 			
-		Collections.sort(arr);
+		Collections.sort(list);
 		
-		for(int i : arr) {
+		for(int i : list) {
 			String[] str = map.get(i).split(" ");
 			for(int j = 0; j<str.length; j++) {
 				sb.append(i).append(" ");
