@@ -23,6 +23,7 @@ public class baekjoon10816 {
 			} else {
 				map.put(num, 1);
 			}
+			// map.put(num, map.getOrDefault(map.get(num), 0) + 1);
 		}
 		int M = Integer.parseInt(br.readLine());
 		st = new StringTokenizer(br.readLine());
