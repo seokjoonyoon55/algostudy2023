@@ -390,7 +390,7 @@
 2. 복습용 3문제 (선택) <br>
     N과 M (3) https://www.acmicpc.net/problem/15651 <br>
     N과 M (4) https://www.acmicpc.net/problem/15652 <br>
-    N과 M (5) https://www.acmicpc.net/problem/15654
+    N과 M (5) https://www.acmicpc.net/problem/15654<br> 다음 순열 https://www.acmicpc.net/problem/10972
 
 3. 도전 1문제 (선택) <br>
     연구소 https://www.acmicpc.net/problem/14502
