@@ -71,7 +71,7 @@
 ### chapter02. 자료구조
 
 - 스택, 리스트, 큐, 연결리스트, 트리, 배열순회
-- 1/30 스택, 2/2 큐, 2/7 덱,힙, 3/13 트리
+- 1/30 스택, 2/2 큐, 2/7 덱,힙, 3/13 트리, 3/23 그래프
 
 
 
@@ -86,9 +86,13 @@
 
 ### chapter04. 알고리즘 심화
 
-+ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬
++ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리
 
 <br/>
+
+### chapter05. 알고리즘 심화
+
++ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리
 
 <br/>
 
@@ -363,7 +367,7 @@
 
 #### 3/20  7:00pm - 9:00pm
 
-##### :pencil2: 이분탐색
+##### :pencil2: 병합정렬, 퀵정렬
 
 0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
 
@@ -372,3 +376,21 @@
 1. 백준 문제 2750. 수 정렬하기 https://www.acmicpc.net/problem/2750
 
 2. 백준 문제 10814. 나이순 정렬 https://www.acmicpc.net/problem/10814
+
+#### 3/27  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 최소 신장 트리
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
+
+1. 예습 2문제 (읽어오기 필수) <br>9372. 상근이의 여행 https://www.acmicpc.net/problem/9372<br>10814. 나이순 정렬 도시 분할 계획 https://www.acmicpc.net/problem/1647
+
+2. 복습용 3문제 (선택) <br>
+    N과 M (3) https://www.acmicpc.net/problem/15651 <br>
+    N과 M (4) https://www.acmicpc.net/problem/15652 <br>
+    N과 M (5) https://www.acmicpc.net/problem/15654<br> 다음 순열 https://www.acmicpc.net/problem/10972
+
+3. 도전 1문제 (선택) <br>
+    연구소 https://www.acmicpc.net/problem/14502
