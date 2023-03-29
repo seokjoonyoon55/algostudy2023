@@ -92,7 +92,7 @@
 
 ### chapter05. 알고리즘 심화
 
-+ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리
++ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리, 3/30 다익스트라 알고리즘
 
 <br/>
 
@@ -377,13 +377,13 @@
 
 2. 백준 문제 10814. 나이순 정렬 https://www.acmicpc.net/problem/10814
 
-#### 3/27  7:00pm - 9:00pm(예정)
+#### 3/27  7:00pm - 9:00pm
 
 ##### :pencil2: 최소 신장 트리
 
 0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
 
-   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
+    ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
 
 1. 예습 2문제 (읽어오기 필수) <br>9372. 상근이의 여행 https://www.acmicpc.net/problem/9372<br>10814. 나이순 정렬 도시 분할 계획 https://www.acmicpc.net/problem/1647
 
@@ -394,3 +394,20 @@
 
 3. 도전 1문제 (선택) <br>
     연구소 https://www.acmicpc.net/problem/14502
+
+#### 3/30  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 다익스트라 알고리즘
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1037
+
+1. 예습 2문제 (읽어오기 필수) <br>파티 https://www.acmicpc.net/problem/1238<br>
+   최소비용 구하기 https://www.acmicpc.net/problem/1916<br>
+
+2. 복습용 2문제 (선택) <br>실버2 연결 요소의 개수 https://www.acmicpc.net/problem/11724<br>
+   실버1 케빈 베이컨의 6단계 법칙 https://www.acmicpc.net/problem/1389<br>
+
+3. 도전 1문제 (선택) <br>
+   행성연결 https://www.acmicpc.net/problem/16398
