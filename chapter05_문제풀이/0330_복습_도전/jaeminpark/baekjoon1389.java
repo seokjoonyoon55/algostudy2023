@@ -62,7 +62,7 @@ public class baekjoon1389 {
 		// cnt는 관계 몇번 지나왔는지 저장하는 변수
 		boolean allVisited = true;
 		for (int i = 1; i <= N; i++) {
-			// visited[i] = 0 무조건 0 이므로 스킵
+			// visited[start] = 0 무조건 0 이므로 스킵
 			if (i == start)
 				continue;
 			// 그 외 visited[i] 가 0일 경우 모든 경우를 돈 것이 아니므로 for문 탈출 후 다음 진행
