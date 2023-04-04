@@ -413,7 +413,7 @@
 3. 도전 1문제 (선택) <br>
    행성연결 https://www.acmicpc.net/problem/16398
 
-#### 4/3  7:00pm - 9:00pm(예정)
+#### 4/3  7:00pm - 9:00pm
 
 ##### :pencil2: DP(다이나믹 프로그래밍)
 
@@ -429,3 +429,20 @@
 
 3. 도전 1문제 (선택) <br>
    다리만들기 https://www.acmicpc.net/problem/17472
+
+#### 4/3  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 그리디 알고리즘
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/975
+
+1. 예습 2문제 (읽어오기 필수) <br>잃어버린 괄호 https://www.acmicpc.net/problem/1541<br>
+   회의실 배정 https://www.acmicpc.net/problem/1931<br>
+
+2. 복습용 2문제 (선택) <br>게임 개발 https://www.acmicpc.net/problem/1516<br>
+   음악프로그램 https://www.acmicpc.net/problem/2623<br>
+
+3. 도전 1문제 (선택) <br>
+   다리만들기 2 https://www.acmicpc.net/problem/17472
