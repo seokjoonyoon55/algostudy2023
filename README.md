@@ -87,17 +87,15 @@
 ### chapter04. 알고리즘 심화
 
 + 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리
-
-<br/>
-
-### chapter05. 알고리즘 심화
-
-+ 3/9 백트래킹, 3/16 이분탐색, 3/20 병합정렬,퀵정렬, 3/29 최소신장트리, 3/30 다익스트라 알고리즘
 + 4/3 DP(다이나믹 프로그래밍)
 
 <br/>
 
-이하 순서 미정주제. SWEA 강의 참고하여 기재만 해놓음.
+### chapter05. 문제풀이
+
+<br/>
+
+이하 순서 미정 주제. SWEA 강의 참고하여 기재만 해놓음.
 
 - 완전탐색과 시뮬레이션, 브루트 포스
 - 그리디 알고리즘
@@ -430,7 +428,7 @@
 3. 도전 1문제 (선택) <br>
    다리만들기 https://www.acmicpc.net/problem/17472
 
-#### 4/3  7:00pm - 9:00pm(예정)
+#### 4/6  7:00pm - 9:00pm
 
 ##### :pencil2: 그리디 알고리즘
 
@@ -446,3 +444,20 @@
 
 3. 도전 1문제 (선택) <br>
    다리만들기 2 https://www.acmicpc.net/problem/17472
+
+#### 4/11  7:00pm - 9:00pm(예정)
+
+##### :pencil2: DP 및 배낭 알고리즘
+
+0. DP 및 배낭 알고리즘 자유공부
+
+1. DP문제 <br>
+
+   가장 긴 증가하는 부분 수열 https://www.acmicpc.net/problem/11053<br>
+   피보나치 수의 확장 https://www.acmicpc.net/problem/1788<br>
+   RGB거리 https://www.acmicpc.net/problem/1149<br>
+
+2. 배낭 알고리즘 문제 <br>
+
+   평범한 배낭 https://www.acmicpc.net/problem/12865<br>
+   동전 https://www.acmicpc.net/problem/9084<br>
