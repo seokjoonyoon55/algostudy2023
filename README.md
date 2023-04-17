@@ -434,7 +434,7 @@
 
 0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
 
-   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/975
+    ▪ 바킹독 블로그 글  https://blog.encrypted.gg/975
 
 1. 예습 2문제 (읽어오기 필수) <br>잃어버린 괄호 https://www.acmicpc.net/problem/1541<br>
    회의실 배정 https://www.acmicpc.net/problem/1931<br>
@@ -445,7 +445,9 @@
 3. 도전 1문제 (선택) <br>
    다리만들기 2 https://www.acmicpc.net/problem/17472
 
-#### 4/11  7:00pm - 9:00pm(예정)
+#### 4/11  7:00pm - 9:00pm 스터디 생략
+
+#### 4/13  7:00pm - 9:00pm
 
 ##### :pencil2: DP 및 배낭 알고리즘
 
@@ -461,3 +463,9 @@
 
    평범한 배낭 https://www.acmicpc.net/problem/12865<br>
    동전 https://www.acmicpc.net/problem/9084<br>
+
+#### 4/17  7:00pm - 9:00pm(예정)
+
+##### :pencil2: DP 및 그리디 복습
+
+1. DP 3문제 + 그리디 1문제<br>설탕 배달 https://www.acmicpc.net/problem/2839<br>설탕 배달2 https://www.acmicpc.net/problem/26099<br>정수 삼각형 https://www.acmicpc.net/problem/1932<br>게임을 만든 동준이 https://www.acmicpc.net/problem/2847<br>
