@@ -250,13 +250,27 @@
 
 0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
 
-   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
+    ▪ 바킹독 블로그 글  https://blog.encrypted.gg/1016
 
 1. 백준 문제 5567. 결혼식 https://www.acmicpc.net/problem/5567
 
 2. 백준 문제 1260. DFS와 BFS https://www.acmicpc.net/problem/1260
 
 3. 백준 문제 11403. 경로 찾기 https://www.acmicpc.net/problem/11403
+
+#### 4/20  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 힙 (할 수 있는 만큼만)
+
+1. 백준 3문제<br>실버2 최소 힙 https://www.acmicpc.net/problem/1927<br>
+   실버2 최대 힙 https://www.acmicpc.net/problem/11279<br>
+   골드2 중앙값 구하기 https://www.acmicpc.net/problem/2696<br>
+
+2. 프로그래머스
+   더 맵게 https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=java<br>
+   무지의 먹방 라이브 https://school.programmers.co.kr/learn/courses/30/lessons/42891<br>
+
+   
 
 ### chapter03. 알고리즘 기초
 
@@ -464,7 +478,7 @@
    평범한 배낭 https://www.acmicpc.net/problem/12865<br>
    동전 https://www.acmicpc.net/problem/9084<br>
 
-#### 4/17  7:00pm - 9:00pm(예정)
+#### 4/17  7:00pm - 9:00pm
 
 ##### :pencil2: DP 및 그리디 복습
 
