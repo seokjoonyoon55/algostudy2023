@@ -243,7 +243,7 @@
 
 3. 백준 문제 11403. 경로 찾기 https://www.acmicpc.net/problem/11403
 
-#### 4/20  7:00pm - 9:00pm(예정)
+#### 4/20  7:00pm - 9:00pm
 
 ##### :pencil2: 힙 (할 수 있는 만큼만)
 
@@ -468,3 +468,16 @@
 ##### :pencil2: DP 및 그리디 복습
 
 1. DP 3문제 + 그리디 1문제<br>설탕 배달 https://www.acmicpc.net/problem/2839<br>설탕 배달2 https://www.acmicpc.net/problem/26099<br>정수 삼각형 https://www.acmicpc.net/problem/1932<br>게임을 만든 동준이 https://www.acmicpc.net/problem/2847<br>
+
+#### 4/24  7:00pm - 9:00pm(예정)
+
+##### :pencil2: 투 포인터
+
+0. 바킹독 강의 미리 듣기. 개념 10분(필수) + 예제20~30분(선택)
+
+   ▪ 바킹독 블로그 글  https://blog.encrypted.gg/975
+
+1. 백준 문제 풀기<br>
+   실버2 수들의 합 2 https://www.acmicpc.net/problem/2003<br>
+   실버5 수들의 합 5 https://www.acmicpc.net/problem/2018<br>
+   골드5 두 용액 https://www.acmicpc.net/problem/2470<br>
